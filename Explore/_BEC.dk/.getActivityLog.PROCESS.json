@@ -1,0 +1,64 @@
+{
+  "objectInfo" : {
+    "id" : "9JhW6GkIVUSiIt1rnmkHqB",
+    "name" : "getActivityLog",
+    "type" : "PROCESS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "clS3wOLIFvukNXH-gt-8189265-2020-05-18T16:39:02.704Z::pd.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "objectRefs" : [ {
+    "id" : "1Pv6XqjcajOfSxuuoZkKSh",
+    "name" : "ActivityEntry",
+    "type" : "PROCESS_OBJECT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "852UUOC074Rpf6J-gt-8264265-2020-05-18T16:39:01.96Z::po.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/_BEC.dk"
+  }, {
+    "id" : "84JiE1GMm6BjDeBkz5nrC0",
+    "name" : "IICS-REST-APIs",
+    "type" : "AI_CONNECTION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "45bfTQbdxWq9bds-gt-2191896-2020-05-18T16:39:02.489Z::conn.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/_BEC.dk"
+  } ]
+}
